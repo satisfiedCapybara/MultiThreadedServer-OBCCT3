@@ -22,3 +22,17 @@ D:\универ\ОВССТ\Lab2\SocketTcpClient\SocketTcpClient\bin\Debug\netcor
 D:\универ\ОВССТ\Lab2\SocketTcpClient\SocketTcpClient\bin\Debug\netcoreapp3.1\SocketTcpClient.dll
 D:\универ\ОВССТ\Lab2\SocketTcpClient\SocketTcpClient\bin\Debug\netcoreapp3.1\SocketTcpClient.pdb
 D:\универ\ОВССТ\Lab2\SocketTcpClient\SocketTcpClient\obj\Debug\netcoreapp3.1\SocketTcpClient.genruntimeconfig.cache
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\bin\Debug\netcoreapp3.1\SocketTcpClient.exe
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\bin\Debug\netcoreapp3.1\SocketTcpClient.deps.json
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\bin\Debug\netcoreapp3.1\SocketTcpClient.runtimeconfig.json
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\bin\Debug\netcoreapp3.1\SocketTcpClient.runtimeconfig.dev.json
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\bin\Debug\netcoreapp3.1\SocketTcpClient.dll
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\bin\Debug\netcoreapp3.1\SocketTcpClient.pdb
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\obj\Debug\netcoreapp3.1\SocketTcpClient.csproj.AssemblyReference.cache
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\obj\Debug\netcoreapp3.1\SocketTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\obj\Debug\netcoreapp3.1\SocketTcpClient.AssemblyInfoInputs.cache
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\obj\Debug\netcoreapp3.1\SocketTcpClient.AssemblyInfo.cs
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\obj\Debug\netcoreapp3.1\SocketTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\obj\Debug\netcoreapp3.1\SocketTcpClient.dll
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\obj\Debug\netcoreapp3.1\SocketTcpClient.pdb
+C:\Users\semsmirn\Desktop\Lab2\SocketTcpClient\SocketTcpClient\obj\Debug\netcoreapp3.1\SocketTcpClient.genruntimeconfig.cache
