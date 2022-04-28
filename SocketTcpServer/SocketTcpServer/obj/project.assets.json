@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\semsmirn\\Desktop\\Lab2\\SocketTcpServer\\SocketTcpServer\\SocketTcpServer.csproj",
+      "projectUniqueName": "C:\\Education\\OBCCT\\MultiThreadedServer\\SocketTcpServer\\SocketTcpServer\\SocketTcpServer.csproj",
       "projectName": "SocketTcpServer",
-      "projectPath": "C:\\Users\\semsmirn\\Desktop\\Lab2\\SocketTcpServer\\SocketTcpServer\\SocketTcpServer.csproj",
+      "projectPath": "C:\\Education\\OBCCT\\MultiThreadedServer\\SocketTcpServer\\SocketTcpServer\\SocketTcpServer.csproj",
       "packagesPath": "C:\\Users\\semsmirn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\semsmirn\\Desktop\\Lab2\\SocketTcpServer\\SocketTcpServer\\obj\\",
+      "outputPath": "C:\\Education\\OBCCT\\MultiThreadedServer\\SocketTcpServer\\SocketTcpServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

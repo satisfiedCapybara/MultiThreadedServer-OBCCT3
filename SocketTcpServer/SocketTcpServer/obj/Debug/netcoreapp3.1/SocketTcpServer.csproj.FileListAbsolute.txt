@@ -37,3 +37,16 @@ C:\Users\semsmirn\Desktop\Lab2\SocketTcpServer\SocketTcpServer\bin\Debug\netcore
 C:\Users\semsmirn\Desktop\Lab2\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.dll
 C:\Users\semsmirn\Desktop\Lab2\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.pdb
 C:\Users\semsmirn\Desktop\Lab2\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.genruntimeconfig.cache
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.exe
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.deps.json
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.runtimeconfig.json
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.runtimeconfig.dev.json
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.dll
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.pdb
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.AssemblyInfoInputs.cache
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.AssemblyInfo.cs
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.csproj.CoreCompileInputs.cache
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.dll
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.pdb
+C:\Education\OBCCT\MultiThreadedServer\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.genruntimeconfig.cache

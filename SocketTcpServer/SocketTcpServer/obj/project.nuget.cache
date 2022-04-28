@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q4rnx8IG3BRDOw6TJxasOYi5Ttt0/0EjxNvSQTMHlbWVMNuFrsyRdFxrBatmlzRuWTz34mhFlrQuECvgIPO4qA==",
+  "dgSpecHash": "9i3YsURqBJbcWOytf4yFTtvZgh+EY31qIFN7RF3yL0kSxZ38+60MtXj22ApJ60XaaNl21c4M/7WY566z6PGy5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\semsmirn\\Desktop\\Lab2\\SocketTcpServer\\SocketTcpServer\\SocketTcpServer.csproj",
+  "projectFilePath": "C:\\Education\\OBCCT\\MultiThreadedServer\\SocketTcpServer\\SocketTcpServer\\SocketTcpServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
